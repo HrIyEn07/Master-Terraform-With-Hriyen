@@ -1,13 +1,13 @@
 # 👨‍💻 About Me
 
-Hi there! 👋  
+Hi everyone,
 My name is **Hriyen Tripura**, a Cloud & DevOps Engineer with **8+ years of experience in IT**, including **6+ years specializing in Cloud and DevOps** technologies.
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Do in my free time
 
-- 🧑‍🏫 **Passionate Teacher & Mentor** – I love simplifying complex concepts and turning them into **real-time, hands-on learning experiences**.
+- 🧑‍🏫 **Passionate in Teaching & Mentoring** – I love simplifying complex concepts and turning them into **real-time, hands-on learning experiences**.
 - 🌍 **Community Contributor** – I believe in **giving back to the community** by helping others grow, especially newcomers stepping into the DevOps world.
 - 🛠️ **Problem Solver** – I share **project-based solutions**, **interview-ready scenarios**, and industry best practices.
 
@@ -15,8 +15,8 @@ My name is **Hriyen Tripura**, a Cloud & DevOps Engineer with **8+ years of expe
 
 ## 🔗 Connect with Me
 
-- 🔹 [LinkedIn – Hriyen Tripura](https://www.linkedin.com/in/hriyen/)
-- 🔹 [YouTube – Azure DevOps Pulse](https://www.youtube.com/@AzureDevOpsPulse)
+-  [LinkedIn – Hriyen Tripura](https://www.linkedin.com/in/hriyen/)
+-  [YouTube – Azure DevOps Pulse](https://www.youtube.com/@AzureDevOpsPulse)
 
 ---
 
